@@ -17,5 +17,5 @@
 </div>
 <h1 align="center">
   hey there
-  <img src="https://media.giphy.com/media/yo74NqufrR7pK/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/yo74NqufrR7pK/giphy.gif" width="90px"/>
 </h1>
