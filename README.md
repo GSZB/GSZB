@@ -15,3 +15,7 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=GSZB&style=flat-square&color=blue" alt="Visitors"/>
 </div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/yo74NqufrR7pK/giphy.gif" width="30px"/>
+</h1>
