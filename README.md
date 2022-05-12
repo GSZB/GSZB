@@ -19,3 +19,6 @@
   hey there
   <img src="https://media.giphy.com/media/yo74NqufrR7pK/giphy.gif" width="90px"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
