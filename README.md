@@ -32,6 +32,6 @@
 
 - ⚡: In my free time, I solve tasks on Codewars and read tech and management articles.
 
-- 📬:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-GSZB-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/gonczy-szabolcs/")
+- 📬:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-GSZB-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gonczy-szabolcs/)
 </div>
  
