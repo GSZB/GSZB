@@ -24,6 +24,13 @@
 </div>
 <div display="inline-block">
   :man_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hungary.
+  I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hungary.
+  - 🔭: I’m studying as a Frontend Developer and want to be a part of your company and team.
+
+- 🖥️: HTML & CSS, JS & React.js knowledge.
+
+- ⚡: In my free time, I solve tasks on Codewars and read tech and management articles.
+
+- 📬:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/gonczy-szabolcs/")
 </div>
  
