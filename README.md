@@ -25,8 +25,6 @@
 <div display="inline-block">
   :man_technologist: About Me :
   I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hungary.
-  
-- 🔭: I’m studying as a Frontend Developer and want to be a part of your company and team.
 
 - 🖥️: HTML & CSS, JS & React.js knowledge.
 
